@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "96688632630",
+    "project_id": "todo-app-c11-744d4",
+    "storage_bucket": "todo-app-c11-744d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96688632630:android:10bb54932407d3ffacb997",
+        "android_client_info": {
+          "package_name": "com.exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QSMPRITid7Dg18CvrMbKqBfbroNxCAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96688632630:android:3249f088753a0910acb997",
+        "android_client_info": {
+          "package_name": "com.exampl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QSMPRITid7Dg18CvrMbKqBfbroNxCAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96688632630:android:4da8fc68ff98eb63acb997",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QSMPRITid7Dg18CvrMbKqBfbroNxCAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96688632630:android:fef86d8c46fc7f59acb997",
+        "android_client_info": {
+          "package_name": "com.mycompany.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QSMPRITid7Dg18CvrMbKqBfbroNxCAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
